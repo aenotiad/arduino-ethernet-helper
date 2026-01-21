@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for EthernetHelper
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EthernetHelper	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+maintain	KEYWORD2
+isLinkUp	KEYWORD2
+printConfig	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
